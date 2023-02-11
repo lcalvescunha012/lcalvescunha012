@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lucas Alves 👋
 
 🏡 Atualmente morando em Ribeirão Preto, São Paulo.
-🔭 Estou trabalhando principalmente com ferramentas DevOps com Azure, Oracle PL/SQL, Oracle Form Builder e Oracle Report!
+🔭 Estou trabalhando principalmente com ferramentas DevOps com Azure, Oracle PL/SQL, Oracle Form Builder e Oracle Report. Experiências de trabalho com aplicações que utilizavam Java (GWT, Hibernate, Servlets e JSP), Docker, Git/Github, PHP, Flutter (Dart) e Kotlin. E estou sempre disposto a enfrentar novos desafios e adquirir novos aprendizados. 
 🌱 Atualmente estudando Java, Spring Boot, Docker, Fundamentos da arquitetura de software e Domain Driven Design.
 
 <div style="display: inline_block"><br>
